@@ -1,0 +1,2 @@
+include ':lab3_1', ':lab3_2'
+rootProject.name='lab3'
